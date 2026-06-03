@@ -1,0 +1,17 @@
+{
+	"name": "Main Branch Deletion Protection",
+	"target": "branch",
+	"enforcement": "active",
+	"bypass_actors": [],
+	"conditions": {
+		"ref_name": {
+			"exclude": [],
+			"include": ["refs/heads/main"]
+		}
+	},
+	"rules": [
+		{
+			"type": "deletion"
+		}
+	]
+}
