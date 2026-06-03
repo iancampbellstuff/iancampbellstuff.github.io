@@ -9,4 +9,4 @@ My personal developer website!
 
 ## Volleyball Scorekeeper
 
->See [`volleyball-scorekeeper`](/volleyball-scorekeeper/ "/volleyball-scorekeeper/").
+>See [`volleyball-scorekeeper`](volleyball-scorekeeper "volleyball-scorekeeper").
