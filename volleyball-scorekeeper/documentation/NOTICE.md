@@ -123,364 +123,385 @@ This application uses the following open-source libraries and dependencies:
 
 ---
 
-###### 18. @intlify/unplugin-vue-i18n
+###### 18. @logtail/browser
+
+    License: ISC
+    https://github.com/logtail/logtail-js
+
+---
+
+###### 19. @intlify/unplugin-vue-i18n
 
     License: MIT
     https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n
 
 ---
 
-###### 19. @playwright/test
+###### 20. @playwright/test
 
     License: Apache License 2.0
     https://github.com/microsoft/playwright
 
 ---
 
-###### 20. @quasar/app-vite
+###### 21. @quasar/app-vite
 
     License: MIT
     https://github.com/quasarframework/quasar/tree/dev/app-vite
 
 ---
 
-###### 21. @quasar/extras
+###### 22. @quasar/extras
 
     License: MIT
     https://github.com/quasarframework/quasar/tree/dev/extras
 
 ---
 
-###### 22. @types/cordova
+###### 23. @types/cordova
 
     License: MIT
     https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cordova
 
 ---
 
-###### 23. @types/dompurify
+###### 24. @types/dompurify
 
     License: MIT
     https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/dompurify
 
 ---
 
-###### 24. @types/jest
+###### 25. @types/jest
 
     License: MIT
     https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/jest
 
 ---
 
-###### 25. @types/node
+###### 26. @types/node
 
     License: MIT
     https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node
 
 ---
 
-###### 26. @vue/eslint-config-prettier
+###### 27. @vue/eslint-config-prettier
 
     License: MIT
     https://github.com/vuejs/eslint-config-prettier
 
 ---
 
-###### 27. @vue/eslint-config-typescript
+###### 28. @vue/eslint-config-typescript
 
     License: MIT
     https://github.com/vuejs/eslint-config-typescript
 
 ---
 
-###### 28. @vue/test-utils
+###### 29. @vue/test-utils
 
     License: MIT
     https://github.com/vuejs/test-utils
 
 ---
 
-###### 29. @vue/vue3-jest
+###### 30. @vue/vue3-jest
 
     License: MIT
     https://github.com/vuejs/vue-jest/tree/next
 
 ---
 
-###### 30. autoprefixer
+###### 31. autoprefixer
 
     License: MIT
     https://github.com/postcss/autoprefixer
 
 ---
 
-###### 31. axios
+###### 32. axios
 
     License: MIT
     https://github.com/axios/axios
 
 ---
 
-###### 32. cordova-plugin-globalization
+###### 33. cordova-plugin-globalization
 
     License: Apache License 2.0
     https://github.com/apache/cordova-plugin-globalization
 
 ---
 
-###### 33. cordova-plugin-screen-orientation
+###### 34. cordova-plugin-screen-orientation
 
     License: MIT
     https://github.com/apache/cordova-plugin-screen-orientation
 
 ---
 
-###### 34. cordova-plugin-x-socialsharing
+###### 35. cordova-plugin-x-socialsharing
 
     License: MIT
     https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin
 
 ---
 
-###### 35. css-color-names
+###### 36. css-color-names
 
     License: MIT
     https://github.com/bahamas10/css-color-names
 
 ---
 
-###### 36. cssnano
+###### 37. cssnano
 
     License: MIT
     https://github.com/cssnano/cssnano
 
 ---
 
-###### 37. dompurify
+###### 38. dompurify
 
     License: MIT
     https://github.com/cure53/DOMPurify
 
 ---
 
-###### 38. envalid
+###### 39. envalid
 
     License: MIT
     https://github.com/af/envalid
 
 ---
 
-###### 39. es6-promise-plugin
+###### 40. fast-safe-stringify
+
+    License: MIT
+    https://github.com/davidmarkclements/fast-safe-stringify
+
+---
+
+###### 41. es6-promise-plugin
 
     License: MIT
     https://github.com/vstirbu/PromisesPlugin
 
 ---
 
-###### 40. eslint
+###### 42. eslint
 
     License: MIT
     https://github.com/eslint/eslint
 
 ---
 
-###### 41. eslint-plugin-jsdoc
+###### 43. eslint-plugin-jsdoc
 
     License: MIT
     https://github.com/gajus/eslint-plugin-jsdoc
 
 ---
 
-###### 42. eslint-plugin-vue
+###### 44. eslint-plugin-vue
 
     License: MIT
     https://github.com/vuejs/eslint-plugin-vue
 
 ---
 
-###### 43. globals
+###### 45. globals
 
     License: MIT
     https://github.com/sindresorhus/globals
 
 ---
 
-###### 44. intro.js
+###### 46. intro.js
 
     License: AGPL-3.0
     https://github.com/usablica/intro.js
 
 ---
 
-###### 45. jest
+###### 47. jest
 
     License: MIT
     https://github.com/facebook/jest
 
 ---
 
-###### 46. jest-environment-jsdom
+###### 48. jest-environment-jsdom
 
     License: MIT
     https://github.com/facebook/jest/tree/main/packages/jest-environment-jsdom
 
 ---
 
-###### 47. jest-fixed-jsdom
+###### 49. jest-fixed-jsdom
 
     License: MIT
     https://github.com/hustcc/jest-fixed-jsdom
 
 ---
 
-###### 48. marked
+###### 50. marked
 
     License: MIT
     https://github.com/markedjs/marked
 
 ---
 
-###### 49. modern-normalize
+###### 51. modern-normalize
 
     License: MIT
     https://github.com/sindresorhus/modern-normalize
 
 ---
 
-###### 50. nock
+###### 52. nock
 
     License: MIT
     https://github.com/nock/nock
 
 ---
 
-###### 51. npm-check-updates
+###### 53. npm-check-updates
 
     License: MIT
     https://github.com/raineorshine/npm-check-updates
 
 ---
 
-###### 52. pinia
+###### 54. pinia
 
     License: MIT
     https://github.com/vuejs/pinia
 
 ---
 
-###### 53. prettier
+###### 55. prettier
 
     License: MIT
     https://github.com/prettier/prettier
 
 ---
 
-###### 54. quasar
+###### 56. quasar
 
     License: MIT
     https://github.com/quasarframework/quasar
 
 ---
 
-###### 55. rimraf
+###### 57. rimraf
 
     License: MIT
     https://github.com/isaacs/rimraf
 
 ---
 
-###### 56. rollup-plugin-visualizer
+###### 58. rollup-plugin-visualizer
 
     License: MIT
     https://github.com/btd/rollup-plugin-visualizer
 
 ---
 
-###### 57. table
+###### 59. table
 
     License: MIT
     https://github.com/gajus/table
 
 ---
 
-###### 58. ts-jest
+###### 60. ts-jest
 
     License: MIT
     https://github.com/kulshekhar/ts-jest
 
 ---
 
-###### 59. ts-node
+###### 61. ts-node
 
     License: MIT
     https://github.com/TypeStrong/ts-node
 
 ---
 
-###### 60. typescript
+###### 62. tsx
+
+    License: MIT
+    https://github.com/privatenumber/tsx
+
+---
+
+###### 63. typescript
 
     License: Apache License 2.0
     https://github.com/microsoft/TypeScript
 
 ---
 
-###### 61. typescript-eslint
+###### 64. typescript-eslint
 
     License: MIT
     https://github.com/typescript-eslint/typescript-eslint
 
 ---
 
-###### 62. vite-plugin-checker
+###### 65. vite-plugin-checker
 
     License: MIT
     https://github.com/fi3ework/vite-plugin-checker
 
 ---
 
-###### 63. vite-plugin-compression
+###### 66. vite-plugin-compression
 
     License: MIT
     https://github.com/vbenjs/vite-plugin-compression
 
 ---
 
-###### 64. vite-plugin-html
+###### 67. vite-plugin-html
 
     License: MIT
     https://github.com/vbenjs/vite-plugin-html
 
 ---
 
-###### 65. vite-tsconfig-paths
+###### 68. vite-tsconfig-paths
 
     License: MIT
     https://github.com/aleclarson/vite-tsconfig-paths
 
 ---
 
-###### 66. vue
+###### 69. vue
 
     License: MIT
     https://github.com/vuejs/core
 
 ---
 
-###### 67. vue-i18n
+###### 70. vue-i18n
 
     License: MIT
     https://github.com/kazupon/vue-i18n
 
 ---
 
-###### 68. vue-router
+###### 71. vue-router
 
     License: MIT
     https://github.com/vuejs/router
 
 ---
 
-###### 69. vue-tsc
+###### 72. vue-tsc
 
     License: MIT
     https://github.com/johnsoncodehk/volar/tree/master/packages/vue-tsc
