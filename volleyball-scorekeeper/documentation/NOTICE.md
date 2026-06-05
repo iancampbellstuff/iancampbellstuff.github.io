@@ -2,6 +2,28 @@
 
 **Volleyball Scorekeeper, Copyright (c) 2026 Ian Campbell, All rights reserved (subject to updates)**
 
+**Table of Contents**
+
+- [Commercial Licenses](#commercial-licenses)
+- [Non-Commercial Licenses](#non-commercial-licenses)
+- [Notices and Disclaimers](#notices-and-disclaimers)
+
+##### Commercial Licenses
+
+This application uses the following commercial libraries and dependencies:
+
+###### 1. intro.js
+
+    License: Commercial License (Starter)
+    Date Purchased: 6/5/26
+    Purchased By: Ian Campbell / iancampbellstuff
+    https://github.com/usablica/intro.js
+    Note: Covered under a paid commercial license.
+
+---
+
+##### Non-Commercial Licenses
+
 This application uses the following open-source libraries and dependencies:
 
 ###### 1. @awesome-cordova-plugins/social-sharing
@@ -319,196 +341,194 @@ This application uses the following open-source libraries and dependencies:
 
 ---
 
-###### 46. intro.js
-
-    License: AGPL-3.0
-    https://github.com/usablica/intro.js
-
----
-
-###### 47. jest
+###### 46. jest
 
     License: MIT
     https://github.com/facebook/jest
 
 ---
 
-###### 48. jest-environment-jsdom
+###### 47. jest-environment-jsdom
 
     License: MIT
     https://github.com/facebook/jest/tree/main/packages/jest-environment-jsdom
 
 ---
 
-###### 49. jest-fixed-jsdom
+###### 48. jest-fixed-jsdom
 
     License: MIT
     https://github.com/hustcc/jest-fixed-jsdom
 
 ---
 
-###### 50. marked
+###### 49. marked
 
     License: MIT
     https://github.com/markedjs/marked
 
 ---
 
-###### 51. modern-normalize
+###### 50. modern-normalize
 
     License: MIT
     https://github.com/sindresorhus/modern-normalize
 
 ---
 
-###### 52. nock
+###### 51. nock
 
     License: MIT
     https://github.com/nock/nock
 
 ---
 
-###### 53. npm-check-updates
+###### 52. npm-check-updates
 
     License: MIT
     https://github.com/raineorshine/npm-check-updates
 
 ---
 
-###### 54. pinia
+###### 53. pinia
 
     License: MIT
     https://github.com/vuejs/pinia
 
 ---
 
-###### 55. prettier
+###### 54. prettier
 
     License: MIT
     https://github.com/prettier/prettier
 
 ---
 
-###### 56. quasar
+###### 55. quasar
 
     License: MIT
     https://github.com/quasarframework/quasar
 
 ---
 
-###### 57. rimraf
+###### 56. rimraf
 
     License: MIT
     https://github.com/isaacs/rimraf
 
 ---
 
-###### 58. rollup-plugin-visualizer
+###### 57. rollup-plugin-visualizer
 
     License: MIT
     https://github.com/btd/rollup-plugin-visualizer
 
 ---
 
-###### 59. table
+###### 58. table
 
     License: MIT
     https://github.com/gajus/table
 
 ---
 
-###### 60. ts-jest
+###### 59. ts-jest
 
     License: MIT
     https://github.com/kulshekhar/ts-jest
 
 ---
 
-###### 61. ts-node
+###### 60. ts-node
 
     License: MIT
     https://github.com/TypeStrong/ts-node
 
 ---
 
-###### 62. tsx
+###### 61. tsx
 
     License: MIT
     https://github.com/privatenumber/tsx
 
 ---
 
-###### 63. typescript
+###### 62. typescript
 
     License: Apache License 2.0
     https://github.com/microsoft/TypeScript
 
 ---
 
-###### 64. typescript-eslint
+###### 63. typescript-eslint
 
     License: MIT
     https://github.com/typescript-eslint/typescript-eslint
 
 ---
 
-###### 65. vite-plugin-checker
+###### 64. vite-plugin-checker
 
     License: MIT
     https://github.com/fi3ework/vite-plugin-checker
 
 ---
 
-###### 66. vite-plugin-compression
+###### 65. vite-plugin-compression
 
     License: MIT
     https://github.com/vbenjs/vite-plugin-compression
 
 ---
 
-###### 67. vite-plugin-html
+###### 66. vite-plugin-html
 
     License: MIT
     https://github.com/vbenjs/vite-plugin-html
 
 ---
 
-###### 68. vite-tsconfig-paths
+###### 67. vite-tsconfig-paths
 
     License: MIT
     https://github.com/aleclarson/vite-tsconfig-paths
 
 ---
 
-###### 69. vue
+###### 68. vue
 
     License: MIT
     https://github.com/vuejs/core
 
 ---
 
-###### 70. vue-i18n
+###### 69. vue-i18n
 
     License: MIT
     https://github.com/kazupon/vue-i18n
 
 ---
 
-###### 71. vue-router
+###### 70. vue-router
 
     License: MIT
     https://github.com/vuejs/router
 
 ---
 
-###### 72. vue-tsc
+###### 71. vue-tsc
 
     License: MIT
     https://github.com/johnsoncodehk/volar/tree/master/packages/vue-tsc
 
 ---
 
-No warranties or guarantees are provided by these third-party projects.
-Please refer to the individual projects' licenses for full terms and conditions.
+##### Notices and Disclaimers
 
-This software is provided "as-is", without warranty of any kind.
+The third-party commercial dependencies listed above are governed by their respective agreements. Please refer to the individual projects' licenses and terms of service for full details regarding usage rights, warranties, and liability.
+
+Unless otherwise specified, the open-source and non-commercial libraries listed above are distributed under the terms of the MIT, ISC, or Apache 2.0 licenses. These third-party libraries are provided "as-is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+For those dependencies governed by the MIT or ISC licenses, the standard permission notice applies as follows:
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the individual projects' respective copyright notices.
