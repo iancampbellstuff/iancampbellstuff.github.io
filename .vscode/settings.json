@@ -1,0 +1,30 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": [
+    // prettier-ignore
+    "source.fixAll.eslint"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": true,
+  "editor.rulers": [
+    // prettier-ignore
+    115
+  ],
+  "editor.snippetSuggestions": "top",
+  "eslint.validate": [
+    // prettier-ignore
+    "javascript"
+  ],
+  "files.exclude": {
+    "node_modules": true,
+    "package-lock.json": true
+  },
+  "prettier.useEditorConfig": true,
+  "search.exclude": {
+    "node_modules": true,
+    "package-lock.json": true
+  },
+  "telemetry.enableTelemetry": false,
+  "workbench.iconTheme": "vs-seti"
+}
