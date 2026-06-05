@@ -1,0 +1,12 @@
+# @see https://jekyllrb.com/docs/configuration/
+# @see https://jekyllrb.com/docs/github-pages/
+
+# render all .md files as .html
+permalink: /:path/:basename.html
+defaults:
+  - scope:
+      # recursively match all files
+      path: ''
+    values:
+      # render .md as .html
+      layout: 'page'

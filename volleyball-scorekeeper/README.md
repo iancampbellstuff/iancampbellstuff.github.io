@@ -1,9 +1,13 @@
-# [volleyball-scorekeeper](https://iancampbellstuff.github.io/volleyball-scorekeeper/ "https://iancampbellstuff.github.io/volleyball-scorekeeper/")
+# [volleyball-scorekeeper](https://iancampbellstuff.github.io/volleyball-scorekeeper/ 'https://iancampbellstuff.github.io/volleyball-scorekeeper/')
 
 A volleyball scorekeeper app!
 
-- [Documentation](#documentation)
+## Documentation
 
-# Documentation
+- [`APP_LICENSE.md`](APP_LICENSE.md)
 
->See [documentation](documentation "documentation").
+- [`NOTICE.md`](NOTICE.md)
+
+- [`PRIVACY_POLICY.md`](PRIVACY_POLICY.md)
+
+- [`TERMS_OF_SERVICE.md`](TERMS_OF_SERVICE.md)
