@@ -1,6 +1,6 @@
 ##### NOTICE
 
-**Volleyball Scorekeeper, Copyright (c) 2026 Ian Campbell, All rights reserved (subject to updates)**
+**VolleyShare, Copyright (c) 2026 Ian Campbell, All rights reserved (subject to updates)**
 
 **Table of Contents**
 

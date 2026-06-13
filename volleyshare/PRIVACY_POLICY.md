@@ -1,6 +1,6 @@
 ##### PRIVACY POLICY
 
-**Volleyball Scorekeeper, Copyright (c) 2026 Ian Campbell, All rights reserved (subject to updates)**
+**VolleyShare, Copyright (c) 2026 Ian Campbell, All rights reserved (subject to updates)**
 
 We value your privacy.
 
@@ -49,7 +49,7 @@ Repeated or abusive communication may result in messages being ignored or blocke
 
 ###### 4. DONATIONS AND PAYMENT PROCESSING
 
-If you choose to contribute to Volleyball Scorekeeper through donations or payments, please note:
+If you choose to contribute to VolleyShare through donations or payments, please note:
 
 - You may select the donation method that works best in your country or through your preferred payment service.
 - All payments are securely processed by trusted third-party providers.

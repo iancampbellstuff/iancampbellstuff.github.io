@@ -2,7 +2,7 @@
 
 ## Apps
 
-- [volleyball-scorekeeper](volleyball-scorekeeper 'volleyball-scorekeeper')
+- [volleyshare](volleyshare 'volleyshare')
 
 ## Support & Contact
 

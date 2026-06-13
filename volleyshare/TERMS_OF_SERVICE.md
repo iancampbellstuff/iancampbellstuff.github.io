@@ -1,8 +1,8 @@
 ##### TERMS OF SERVICE
 
-**Volleyball Scorekeeper, Copyright (c) 2026 Ian Campbell, All rights reserved (subject to updates)**
+**VolleyShare, Copyright (c) 2026 Ian Campbell, All rights reserved (subject to updates)**
 
-Welcome to **Volleyball Scorekeeper** (“the App”).
+Welcome to **VolleyShare** (“the App”).
 
 By downloading, installing, or using the App, you agree to be bound by these Terms of Service (“Terms”). Please read them carefully.
 
@@ -90,7 +90,7 @@ Repeated or abusive communication may result in messages being ignored or blocke
 
 ###### 11. DONATIONS AND PAYMENT PROCESSING
 
-If you choose to contribute to Volleyball Scorekeeper through donations or payments, please note:
+If you choose to contribute to VolleyShare through donations or payments, please note:
 
 - You may select the donation method that works best in your country or through your preferred payment service.
 - All payments are securely processed by trusted third-party providers.

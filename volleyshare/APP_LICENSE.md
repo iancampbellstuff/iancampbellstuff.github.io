@@ -1,6 +1,6 @@
 ##### SOFTWARE LICENSE AGREEMENT
 
-**Volleyball Scorekeeper, Copyright (c) 2026 Ian Campbell, All rights reserved (subject to updates)**
+**VolleyShare, Copyright (c) 2026 Ian Campbell, All rights reserved (subject to updates)**
 
 ---
 
@@ -10,10 +10,10 @@ Permission is hereby granted, free of charge, to use a **compiled copy** of this
 
 - The Software may not be copied, modified, reverse-engineered, redistributed, sublicensed, or sold, in whole or in part, without explicit written permission from the copyright holder.
 - This license does not grant access to the source code or any rights beyond personal usage.
-    - Source code, if made available, may be subject to a separate license.
+  - Source code, if made available, may be subject to a separate license.
 - Donations are voluntary and do not imply any ownership, service, or extended license rights.
-    - The copyright holder may choose to retain, distribute, or donate all donations at their discretion.
-    - Donors are not entitled to any special rights or recognition.
+  - The copyright holder may choose to retain, distribute, or donate all donations at their discretion.
+  - Donors are not entitled to any special rights or recognition.
 
 **"Personal, non-commercial use"** refers to usage by an individual that is not intended to generate revenue, is not part of any business, institutional, or organizational activity, and is not shared, promoted, or used in connection with any commercial enterprise.
 
