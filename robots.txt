@@ -1,0 +1,5 @@
+User-agent: *
+# for Google AdMob
+Allow: /app-ads.txt
+# disallow everything else
+Disallow: /
