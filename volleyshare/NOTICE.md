@@ -26,283 +26,283 @@ This application uses the following commercial libraries and dependencies:
 
 This application uses the following open-source libraries and dependencies:
 
-###### 1. @awesome-cordova-plugins/social-sharing
+###### 1. @awesome-cordova-plugins/core
 
     License: MIT
     https://github.com/danielsogl/awesome-cordova-plugins
 
 ---
 
-###### 2. @babel/preset-env
+###### 2. @awesome-cordova-plugins/social-sharing
+
+    License: MIT
+    https://github.com/danielsogl/awesome-cordova-plugins
+
+---
+
+###### 3. @babel/preset-env
 
     License: MIT
     https://github.com/babel/babel/tree/main/packages/babel-preset-env
 
 ---
 
-###### 3. @babel/preset-typescript
+###### 4. @babel/preset-typescript
 
     License: MIT
     https://github.com/babel/babel/tree/main/packages/babel-preset-typescript
 
 ---
 
-###### 4. @capacitor-community/admob
+###### 5. @capacitor-community/admob
 
     License: MIT
     https://github.com/capacitor-community/admob
 
 ---
 
-###### 5. @capacitor/android
+###### 6. @capacitor/android
 
     License: MIT
     https://github.com/ionic-team/capacitor/tree/main/android
 
 ---
 
-###### 6. @capacitor/app
+###### 7. @capacitor/app
 
     License: MIT
     https://github.com/ionic-team/capacitor-plugins/tree/main/app
 
 ---
 
-###### 7. @capacitor/app-launcher
+###### 8. @capacitor/app-launcher
 
     License: MIT
     https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher
 
 ---
 
-###### 8. @capacitor/assets
+###### 9. @capacitor/assets
 
     License: MIT
     https://github.com/ionic-team/capacitor-assets
 
 ---
 
-###### 9. @capacitor/cli
+###### 10. @capacitor/cli
 
     License: MIT
     https://github.com/ionic-team/capacitor/tree/main/cli
 
 ---
 
-###### 10. @capacitor/core
+###### 11. @capacitor/core
 
     License: MIT
     https://github.com/ionic-team/capacitor/tree/main/core
 
 ---
 
-###### 11. @capacitor/device
+###### 12. @capacitor/device
 
     License: MIT
     https://github.com/ionic-team/capacitor-plugins/tree/main/device
 
 ---
 
-###### 12. @capacitor/ios
+###### 13. @capacitor/ios
 
     License: MIT
     https://github.com/ionic-team/capacitor/tree/main/ios
 
 ---
 
-###### 13. @capacitor/screen-orientation
+###### 14. @capacitor/preferences
+
+    License: MIT
+    https://github.com/ionic-team/capacitor-plugins/tree/main/preferences
+
+---
+
+###### 15. @capacitor/screen-orientation
 
     License: MIT
     https://github.com/ionic-team/capacitor-plugins/tree/main/screen-orientation
 
 ---
 
-###### 14. @capacitor/share
+###### 16. @capacitor/share
 
     License: MIT
     https://github.com/ionic-team/capacitor-plugins/tree/main/share
 
 ---
 
-###### 15. @eslint/js
+###### 17. @capacitor/status-bar
+
+    License: MIT
+    https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar
+
+---
+
+###### 18. @eslint/js
 
     License: MIT
     https://github.com/eslint/eslint/tree/main/packages/js
 
 ---
 
-###### 16. @fontsource/dancing-script
+###### 19. @fontsource/dancing-script
 
     License: SIL Open Font License (OFL)
     https://github.com/fontsource/fontsource/tree/main/fonts/google/dancing-script
 
 ---
 
-###### 17. @fontsource/inter
+###### 20. @fontsource/inter
 
     License: SIL Open Font License (OFL)
     https://github.com/fontsource/fontsource/tree/main/fonts/google/inter
 
 ---
 
-###### 18. @logtail/browser
-
-    License: ISC
-    https://github.com/logtail/logtail-js
-
----
-
-###### 19. @intlify/unplugin-vue-i18n
+###### 21. @intlify/unplugin-vue-i18n
 
     License: MIT
     https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n
 
 ---
 
-###### 20. @playwright/test
+###### 22. @logtail/browser
+
+    License: ISC
+    https://github.com/logtail/logtail-js
+
+---
+
+###### 23. @playwright/test
 
     License: Apache License 2.0
     https://github.com/microsoft/playwright
 
 ---
 
-###### 21. @quasar/app-vite
+###### 24. @quasar/app-vite
 
     License: MIT
     https://github.com/quasarframework/quasar/tree/dev/app-vite
 
 ---
 
-###### 22. @quasar/extras
+###### 25. @quasar/extras
 
     License: MIT
     https://github.com/quasarframework/quasar/tree/dev/extras
 
 ---
 
-###### 23. @types/cordova
+###### 26. @types/cordova
 
     License: MIT
     https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cordova
 
 ---
 
-###### 24. @types/dompurify
-
-    License: MIT
-    https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/dompurify
-
----
-
-###### 25. @types/jest
+###### 27. @types/jest
 
     License: MIT
     https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/jest
 
 ---
 
-###### 26. @types/node
+###### 28. @types/node
 
     License: MIT
     https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node
 
 ---
 
-###### 27. @vue/eslint-config-prettier
+###### 29. @vue/eslint-config-prettier
 
     License: MIT
     https://github.com/vuejs/eslint-config-prettier
 
 ---
 
-###### 28. @vue/eslint-config-typescript
+###### 30. @vue/eslint-config-typescript
 
     License: MIT
     https://github.com/vuejs/eslint-config-typescript
 
 ---
 
-###### 29. @vue/test-utils
+###### 31. @vue/test-utils
 
     License: MIT
     https://github.com/vuejs/test-utils
 
 ---
 
-###### 30. @vue/vue3-jest
+###### 32. @vue/vue3-jest
 
     License: MIT
     https://github.com/vuejs/vue-jest/tree/next
 
 ---
 
-###### 31. autoprefixer
+###### 33. autoprefixer
 
     License: MIT
     https://github.com/postcss/autoprefixer
 
 ---
 
-###### 32. axios
+###### 34. axios
 
     License: MIT
     https://github.com/axios/axios
 
 ---
 
-###### 33. cordova-plugin-globalization
-
-    License: Apache License 2.0
-    https://github.com/apache/cordova-plugin-globalization
-
----
-
-###### 34. cordova-plugin-screen-orientation
+###### 35. cordova-plugin-screen-orientation
 
     License: MIT
     https://github.com/apache/cordova-plugin-screen-orientation
 
 ---
 
-###### 35. cordova-plugin-x-socialsharing
+###### 36. cordova-plugin-x-socialsharing
 
     License: MIT
     https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin
 
 ---
 
-###### 36. css-color-names
+###### 37. css-color-names
 
     License: MIT
     https://github.com/bahamas10/css-color-names
 
 ---
 
-###### 37. cssnano
+###### 38. cssnano
 
     License: MIT
     https://github.com/cssnano/cssnano
 
 ---
 
-###### 38. dompurify
+###### 39. dompurify
 
     License: MIT
     https://github.com/cure53/DOMPurify
 
 ---
 
-###### 39. envalid
+###### 40. envalid
 
     License: MIT
     https://github.com/af/envalid
-
----
-
-###### 40. fast-safe-stringify
-
-    License: MIT
-    https://github.com/davidmarkclements/fast-safe-stringify
 
 ---
 
@@ -334,189 +334,203 @@ This application uses the following open-source libraries and dependencies:
 
 ---
 
-###### 45. globals
+###### 45. fast-safe-stringify
+
+    License: MIT
+    https://github.com/davidmarkclements/fast-safe-stringify
+
+---
+
+###### 46. figlet
+
+    License: MIT
+    https://github.com/patorjk/figlet.js
+
+---
+
+###### 47. globals
 
     License: MIT
     https://github.com/sindresorhus/globals
 
 ---
 
-###### 46. jest
+###### 48. jest
 
     License: MIT
     https://github.com/facebook/jest
 
 ---
 
-###### 47. jest-environment-jsdom
+###### 49. jest-environment-jsdom
 
     License: MIT
     https://github.com/facebook/jest/tree/main/packages/jest-environment-jsdom
 
 ---
 
-###### 48. jest-fixed-jsdom
+###### 50. jest-fixed-jsdom
 
     License: MIT
     https://github.com/hustcc/jest-fixed-jsdom
 
 ---
 
-###### 49. marked
+###### 51. marked
 
     License: MIT
     https://github.com/markedjs/marked
 
 ---
 
-###### 50. modern-normalize
+###### 52. modern-normalize
 
     License: MIT
     https://github.com/sindresorhus/modern-normalize
 
 ---
 
-###### 51. nock
+###### 53. nock
 
     License: MIT
     https://github.com/nock/nock
 
 ---
 
-###### 52. npm-check-updates
+###### 54. npm-check-updates
 
     License: MIT
     https://github.com/raineorshine/npm-check-updates
 
 ---
 
-###### 53. pinia
+###### 55. pinia
 
     License: MIT
     https://github.com/vuejs/pinia
 
 ---
 
-###### 54. prettier
+###### 56. prettier
 
     License: MIT
     https://github.com/prettier/prettier
 
 ---
 
-###### 55. quasar
+###### 57. quasar
 
     License: MIT
     https://github.com/quasarframework/quasar
 
 ---
 
-###### 56. rimraf
+###### 58. rimraf
 
     License: MIT
     https://github.com/isaacs/rimraf
 
 ---
 
-###### 57. rollup-plugin-visualizer
+###### 59. rollup-plugin-visualizer
 
     License: MIT
     https://github.com/btd/rollup-plugin-visualizer
 
 ---
 
-###### 58. table
+###### 60. table
 
     License: MIT
     https://github.com/gajus/table
 
 ---
 
-###### 59. ts-jest
+###### 61. ts-jest
 
     License: MIT
     https://github.com/kulshekhar/ts-jest
 
 ---
 
-###### 60. ts-node
+###### 62. ts-node
 
     License: MIT
     https://github.com/TypeStrong/ts-node
 
 ---
 
-###### 61. tsx
+###### 63. tsx
 
     License: MIT
     https://github.com/privatenumber/tsx
 
 ---
 
-###### 62. typescript
+###### 64. typescript
 
     License: Apache License 2.0
     https://github.com/microsoft/TypeScript
 
 ---
 
-###### 63. typescript-eslint
+###### 65. typescript-eslint
 
     License: MIT
     https://github.com/typescript-eslint/typescript-eslint
 
 ---
 
-###### 64. vite-plugin-checker
+###### 66. vite-plugin-checker
 
     License: MIT
     https://github.com/fi3ework/vite-plugin-checker
 
 ---
 
-###### 65. vite-plugin-compression
+###### 67. vite-plugin-compression
 
     License: MIT
     https://github.com/vbenjs/vite-plugin-compression
 
 ---
 
-###### 66. vite-plugin-html
+###### 68. vite-plugin-html
 
     License: MIT
     https://github.com/vbenjs/vite-plugin-html
 
 ---
 
-###### 67. vite-tsconfig-paths
+###### 69. vite-tsconfig-paths
 
     License: MIT
     https://github.com/aleclarson/vite-tsconfig-paths
 
 ---
 
-###### 68. vue
+###### 70. vue
 
     License: MIT
     https://github.com/vuejs/core
 
 ---
 
-###### 69. vue-i18n
+###### 71. vue-i18n
 
     License: MIT
     https://github.com/kazupon/vue-i18n
 
 ---
 
-###### 70. vue-router
+###### 72. vue-router
 
     License: MIT
     https://github.com/vuejs/router
 
 ---
 
-###### 71. vue-tsc
+###### 73. vue-tsc
 
     License: MIT
     https://github.com/johnsoncodehk/volar/tree/master/packages/vue-tsc
