@@ -4,7 +4,13 @@
 
 We value your privacy.
 
-**As of the current version, this Software does not collect, store, or transmit any personal information; it does, however, transmit limited, anonymous diagnostic data (such as crash reports) to a third-party service solely to improve app stability and performance.**
+**As of the current version, this Software does not collect or store any personal information.**
+
+However, limited and anonymous technical data is transmitted to trusted third-party services to improve app stability and performance:
+
+1. Anonymous diagnostic data (such as crash reports) is sent solely to improve app stability.
+
+2. Technical device identifiers (such as IP address) are processed by Google AdMob solely to securely deliver advertisements, combat fraud, and count ad impressions.
 
 This app does use Google AdMob to display **non-personalized, family-safe advertisements** &mdash; no tracking or profiling is performed, and no personal information is collected or shared with advertisers.
 
